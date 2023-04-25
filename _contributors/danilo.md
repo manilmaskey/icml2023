@@ -1,3 +1,5 @@
+---
+layout: contributor
 name: Danilo Brajovic
 img: /assets/img/danilo.png 
 affiliation: Fraunhofer IPA
@@ -7,3 +9,4 @@ website: https://www.ipa.fraunhofer.de/en.html
 twitter: 
 googlescholar: 
 importance: 1
+---
