@@ -8,10 +8,10 @@ nav-order: 2
 **Submission site:** [https://cmt3.research.microsoft.com/DMLR2023/](https://cmt3.research.microsoft.com/DMLR2023/).
 
 ### Important Dates 
-(Time zone: Anywhere on Earth)
-Paper Submission deadline: 26 May, 2023
-Notification of Acceptance: 19 June, 2023
-Camera Ready Copy due: (Tentative) 3 July, 2023
+(Time zone: Anywhere on Earth) \
+Paper Submission deadline: 26 May, 2023 \
+Notification of Acceptance: 19 June, 2023 \
+Camera Ready Copy due: (Tentative) 3 July, 2023 \
 Workshop: 29 July, 2023
 
 ### Topics
