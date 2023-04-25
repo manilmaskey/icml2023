@@ -14,11 +14,8 @@ Notification of Acceptance: 19 June, 2023
 Camera Ready Copy due: (Tentative) 3 July, 2023
 Workshop: 29 July, 2023
 
-**Data** is the primary object of interest underlying all machine learning. Thus we expect that the topics of the workshop are of great interest to the broader machine-learning community and its many specializations that crucially rely on data downstream. We seek to drive progress in addressing these core problems. We will bring together several communities including DataPerf at MLCommons, Data-centric AI, and Dataset 2030 initiatives. A huge amount of innovation — in algorithms, ideas, principles, and tools — is needed to make **data-centric AI development** efficient and effective.
-
 ### Topics
 We are focused on data, and creating a top-tier venue for research in data. Our ultimate goal is to engage the vibrant interdisciplinary community of researchers, practitioners, and engineers that tackle practical data problems related to the following list (not exclusive) of topics:
-
 * Benchmarking data collection, data generation, data labeling, data augmentation processes, generalizability of datasets, feature representations, text, and image generation models
 * Datasets for machine learning research, AI, and AGI.
 * Data governance, debt, and its solutions.
