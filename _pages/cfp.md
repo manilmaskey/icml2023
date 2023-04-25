@@ -5,14 +5,49 @@ permalink: /cfp/
 nav: true
 nav-order: 2
 ---
-This is the third edition of highly successful workshops focused on data-centric AI, following the success of the Data-Centric AI workshop at NeurIPS 2021 and DataPerf workshop at ICML 2022. Data, and operations over data (e.g., cleaning, debugging, curation) have been continually fueling the success of machine learning for decades [1]. While historically the ML community has focused primarily on model development, recently the importance of data quality has attracted intensive interest from the community [2, 3], including the creation of the NeurIPS dataset and benchmark track, several data-centric AI benchmarks (e.g., DataPerf [4]), and the flourishing of data consortiums such as LAION [5], the community’s attention has been directed to the quality of data used for ML training and evaluation [2, 6]. The goal of this workshop is to facilitate these important topics in what we call Data-centric Machine Learning Research, which includes not only datasets and benchmarks, but tooling and governance [7, 8, 9], as well as fundamental research on topics such as data quality and data acquisition for dataset creation and optimization [10, 6]. Our ultimate goal is to engage the vibrant interdisciplinary community of researchers, practitioners and engineers that tackle practical data problems related to the following list (not exclusive) of topics:
-* Benchmarking data collection, data generation, data labeling, data augmentation processes, generalizability of datasets, feature representations, text and image generation models
-* Datasets for machine learning research, AI, and AGI
-* Data governance, debt and its solutions
-* Data bias, variance, uncertainty and its influence to ML
-* Active learning, Data cleaning, acquisition for ML
-* Data-centric quality evaluation for data benchmarking
-* Influence of data benchmarks on ML research
-* Data-centric approaches to AI alignment
-Data is the primary object of interest underlying all of machine learning. Thus we expect that the topics of the workshop are of great interest to the broader machine learning community and its many specializations that crucially rely on data downstream. We seek to drive progress in addressing these core problems. We will bring together several communities including DataPerf at MLCommons, Data-centric AI, and Dataset 2030 initiatives. A huge amount of innovation — in algorithms, ideas, principles, and tools — is needed to make data-centric AI development efficient and effective. We hope this workshop will help spark innovations. 
+**Submission site:** [https://cmt3.research.microsoft.com/DMLR2023/](https://cmt3.research.microsoft.com/DMLR2023/).
+
+### Important Dates 
+(Time zone: Anywhere on Earth)
+Paper Submission deadline: 26 May, 2023
+Notification of Acceptance: 19 June, 2023
+Camera Ready Copy due: (Tentative) 10 July, 2023
+Workshop: 29 July, 2023
+
+**Data** is the primary object of interest underlying all machine learning. Thus we expect that the topics of the workshop are of great interest to the broader machine-learning community and its many specializations that crucially rely on data downstream. We seek to drive progress in addressing these core problems. We will bring together several communities including DataPerf at MLCommons, Data-centric AI, and Dataset 2030 initiatives. A huge amount of innovation — in algorithms, ideas, principles, and tools — is needed to make **data-centric AI development** efficient and effective.
+
+### Topics
+We are focused on data, and creating a top-tier venue for research in data. Our ultimate goal is to engage the vibrant interdisciplinary community of researchers, practitioners, and engineers that tackle practical data problems related to the following list (not exclusive) of topics:
+
+* Benchmarking data collection, data generation, data labeling, data augmentation processes, generalizability of datasets, feature representations, text, and image generation models
+* Datasets for machine learning research, AI, and AGI.
+* Data governance, debt, and its solutions.
+* Data bias, variance, uncertainty, and its influence to ML.
+* Active learning, Data cleaning, and acquisition for ML.
+* Data-centric quality evaluation for data benchmarking.
+* Influence of data benchmarks on ML research.
+* Data-centric approaches to AI alignment.
+
+### Submission
+We welcome three types of paper submissions:
+
+* **Research papers:** up to 8 pages (not including references and appendices). Acceptable material includes original and high-quality unpublished contributions to the theory, practical aspects, as well as position papers relevant to the workshop topics.
+* **Extended abstracts:** up to 2 pages (not including references and appendices). Acceptable material includes work which has already been submitted or published, preliminary results and controversial findings.
+* **Dataperf submission papers:** up to 4 pages describing the details of your submission to DataPerf v0.5. DataPerf is a suite of data-centric challenges that evaluate the quality of training and test data, and the algorithms for constructing or optimizing such datasets, such as core set selection or labeling error debugging, across a range of common ML tasks such as image classification. We plan to leverage the DataPerf benchmarks through challenges and leaderboards. Our workshop collaborates with the DataPerf challenge and we welcome submissions to the challenge as well. For more details: [https://dataperf.org/](https://dataperf.org/).
+
+Accepted research papers will be presented at the workshop either as a talk or as a poster. Accepted extended abstracts will be presented as posters. We do not intend to publish paper proceedings, however, a few exceptional selected research papers will be invited to the **DMLR journal** (see below for details).
+
+### DMLR Journal
+The [Journal of Data-centric Machine Learning Research (DMLR)](https://data.mlr.press/) is the latest member of the JMLR family, aiming to provide a top archival venue for high-quality scholarly articles focused on the data aspect of machine learning research. The top submissions to the DMLR workshops will be invited to submit extended version of their paper to the DMLR journal.
+
+Submissions should adhere to the ICML 2023 guidelines and style templates
+(https://icml.cc/Conferences/2023/StyleAuthorInstructions).
+
+### Contact
+If you have any questions about paper submission and the workshop, please join our Discord channel here: [https://discord.gg/jYk3FNfYqG](https://discord.gg/jYk3FNfYqG).
+
+#### Workshop Organizers
+Newsha Ardalani · Max Bartolo · Rotem Dror · Nezihe Merve Gürel · Najoung Kim ·  Daniel Kondermann · Tzu-Sheng Kuo · Lilith Bat-Leah · Yang Liu · Manil Maskey · Luis Oala · Praveen Paritosh · Alicia Parrish · William Gaviria Rojas · Ludwig Schmidt · Ce Zhang 
+
+
 
