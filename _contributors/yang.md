@@ -1,3 +1,4 @@
+---
 layout: contributor
 name: Yang Liu
 img: /assets/img/yang.jpg 
@@ -8,3 +9,4 @@ website:
 twitter: 
 googlescholar: 
 importance: 1
+---
