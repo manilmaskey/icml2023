@@ -1,6 +1,6 @@
 layout: contributor
 name: Najoung Kim
-img: /assets/img/lilith.jpg 
+img: /assets/img/najoung.jpg 
 affiliation: Boston University
 minibio: Assistant Professor
 mail: 
