@@ -1,3 +1,4 @@
+---
 layout: contributor
 name: Newsha Ardalani
 img: /assets/img/newsha.jpg 
@@ -8,3 +9,4 @@ website:
 twitter: 
 googlescholar: 
 importance: 1
+---
