@@ -1,3 +1,4 @@
+---
 layout: contributor
 name: Ludwig Schmidt
 img: /assets/img/ludwig.jpg 
@@ -8,3 +9,4 @@ website:
 twitter: 
 googlescholar: 
 importance: 1
+---
