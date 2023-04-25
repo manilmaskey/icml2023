@@ -1,3 +1,4 @@
+---
 layout: contributor
 name: Najoung Kim
 img: /assets/img/najoung.jpg 
@@ -8,3 +9,4 @@ website:
 twitter: 
 googlescholar: 
 importance: 1
+---
