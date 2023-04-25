@@ -1,3 +1,4 @@
+layout: contributor
 name: Yang Liu
 img: /assets/img/yang.jpg 
 affiliation: UC Santa Cruz
