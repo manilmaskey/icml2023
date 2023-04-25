@@ -1,3 +1,4 @@
+---
 layout: contributor
 name: Max Bartolo
 img: /assets/img/max.jpg 
@@ -8,3 +9,4 @@ website:
 twitter: 
 googlescholar: 
 importance: 1
+---
