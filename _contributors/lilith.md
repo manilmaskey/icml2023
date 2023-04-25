@@ -1,3 +1,4 @@
+---
 layout: contributor
 name: Lilith Bat-Leah
 img: /assets/img/lilith.jpg 
@@ -8,3 +9,4 @@ website: https://dprism.com/about/lilith-bat-leah/
 twitter: 
 googlescholar: 
 importance: 1
+---
