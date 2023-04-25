@@ -12,7 +12,7 @@ nav-order: 3
 | 09:40 | 10:10 | Invited Talk 1: Dina Machuve (DevData Analytics; topic: Data for Agriculture)| :white_check_mark: | :white_check_mark: |
 | 10:10 | 10:25 | Coffee break / networking break| :white_check_mark: |  |
 | 10:25 | 11:00 | Keynote 2: Mihaela van der Schaar (University of Cambridge; topic: Data quality)| :white_check_mark: | :white_check_mark: |
-| 11:00 | 11:30 | Invited Talk 2: tbd | :white_check_mark: | :white_check_mark: |
+| 11:00 | 11:30 | Invited Talk 2: Olga Russakovsky (Princeton University; topic: TBD) | :white_check_mark: | :white_check_mark: |
 | 11:30 | 12:00 | Invited Talk 3: Masashi Sugiyama (RIKEN & UTokyo; topic: Data distribute shift) | :white_check_mark: | :white_check_mark: |
 | 12:00 | 01:00 | Lunch break / networking break | :white_check_mark: |  |
 | 01:00 | 01:35 | Keynote 3: Isabelle Guyon (Google Brain; topic: Data creation)| :white_check_mark: | :white_check_mark: |
@@ -22,5 +22,4 @@ nav-order: 3
 | 03:20 | 03:40 | Coffee break / networking break | :white_check_mark: |  |
 | 03:40 | 05:00 | Spotlight Talks | :white_check_mark: | :white_check_mark: |
 | 05:00 | 06:00 | Poster Session 1 | :white_check_mark: | |
-| 06:00 | 06:30 | Poster Session 1 (Virtual) | | :white_check_mark: |
-
+| 06:00 | 06:30 | Poster Session 1 (Virtual) | | :white_check_mark: 
