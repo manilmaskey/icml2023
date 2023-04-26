@@ -124,4 +124,4 @@ and with solicited feedback from broader communities before publication.
   {% include news.html %}
 {% endif %} -->
 
-{% twitter https://twitter.com/icmlconf maxwidth=1000 limit=5 %}
+<!-- {% twitter https://twitter.com/icmlconf maxwidth=1000 limit=5 %} -->
