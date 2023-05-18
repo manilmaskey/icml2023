@@ -17,9 +17,8 @@ nav-order: 3
 | 12:00 | 01:00 | Lunch break / networking break | :white_check_mark: |  |
 | 01:00 | 01:35 | Keynote 3: **Isabelle Guyon** (Google Brain) - *Data creation*| :white_check_mark: | :white_check_mark: |
 | 01:35 | 02:15 | *DataPerf Challenge* - **Peter Mattson** (Google & MLCommons) | :white_check_mark: | :white_check_mark: |
-| 02:15 | 02:30 | Coffee break / networking break | :white_check_mark: |  |
-| 02:30 | 03:20 | Announcement and open discussion on DMLR (Selected members of DMLR Advisory Board) | :white_check_mark: | :white_check_mark: |
-| 03:20 | 03:40 | Coffee break / networking break | :white_check_mark: |  |
-| 03:40 | 05:00 | Spotlight Talks | :white_check_mark: | :white_check_mark: |
-| 05:00 | 06:00 | Poster Session 1 | :white_check_mark: | |
-| 06:00 | 06:30 | Poster Session 1 (Virtual) | | :white_check_mark: 
+| 02:15 | 02:30 | Announcement DMLR Journal (Selected members of DMLR Advisory Board) | :white_check_mark: | :white_check_mark: |
+| 02:30 | 03:15 | Panel discussions | :white_check_mark: |  |
+| 03:15 | 03:30 | Coffee break | :white_check_mark: |  |
+| 03:30 | 04:30 | Poster Session In-Person | :white_check_mark: | |
+| 04:30 | 05:00 | Poster Session Virtual | | :white_check_mark: |
