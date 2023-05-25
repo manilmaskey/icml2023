@@ -9,7 +9,7 @@ nav-order: 2
 
 ### Important Dates 
 (Time zone: Anywhere on Earth) \
-Paper Submission deadline: 26 May, 2023 \
+Paper Submission deadline: ~~26 May, 2023~~ **Extended to June 2, 2023**\
 Notification of Acceptance: 19 June, 2023 \
 Camera Ready Copy due: (Tentative) 3 July, 2023 \
 Workshop: 29 July, 2023
